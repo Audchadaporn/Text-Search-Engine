@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  */
 public class SearchEngine {
-
+	
 	/**
 	 * main function
 	 * Read text files in a given directory and create 'File' objects to store the content of each file.
