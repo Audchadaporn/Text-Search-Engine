@@ -16,6 +16,7 @@ PREREQUISITE
 BUILDING A JAR FILE
 ---------------------------------------------
 Import Java Project:
+
 1. At Eclipse, File -> "Import...".
 2. At "Select an import wizard", choose "Existing Projects into Workspace" and click "Next >"
 3. Select the archive file, browse SimpleSearch.zip.
@@ -23,6 +24,7 @@ Import Java Project:
 5. Click "Finish", the java project named "SearchEngine" has been imported.
 
 Build and Run The Java Project:
+
 1. Right click on the project in Project Explorer -> "Run As" -> "Run Configurations...".
 2. Click "Arguments" tab.
 3. Fill a directory path in "Program arguments:". For examle, C:\Users\User\Desktop\TestTxtFiles.
@@ -30,6 +32,7 @@ Build and Run The Java Project:
 5. Now, the program is running in the Eclipse console.
 
 Create A Jar File:
+
 1. In Package Explorer, right click on the project name and click "Export...".
 2. At "Select an export wizard", search "Runnable JAR file" and choose "Runnable JAR file" and click "Next >".
 3. At "Launch configuration:", choose "SearchEngine - SearchEngine".
