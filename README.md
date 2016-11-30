@@ -1,5 +1,6 @@
 # Text Search Engine
 Version 1.0 28/11/2016
+
 A command line driven program allows users to search any words in text files in a given directory.
 
 Author: Audchadaporn Lertchanvit (a.lertchanvit@gmail.com)
@@ -10,7 +11,6 @@ PREREQUISITE
 1. Install Java SE Development Kit 8, please download "Java SE Development Kit 8u111" at http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 2. Use Eclipse IDE to build the Java project. The version need to be Eclipse Luna or later. To download the latest version, Eclipse Neon, please go to https://eclipse.org/downloads/
 3. The instructions for running a jar file stated here is for Windows machines. 
----------------------------------------------
 
 
 BUILDING A JAR FILE
@@ -38,7 +38,6 @@ Create A Jar File:
 6. Click "Finish".
 7. Click "OK" to "This operation repacks referenced libraries."
 8. There will be a resulting jar file in the destination folder.
----------------------------------------------
 
 
 RUNNING A JAR FILE
@@ -48,4 +47,3 @@ RUNNING A JAR FILE
 To directly open command prompt from the folder, in a windows explorer, hold down shift and right click on the folder which includes the jar file. Select "Open command window here".
 2. At the appeared command prompt, enter "java -jar SimpleSearch.jar <directory-path>", replace <directory-path> portion by the path of the folder to be searched.
 3. Press <ENTER>, the program is started.
----------------------------------------------
